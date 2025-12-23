@@ -1,0 +1,12 @@
+flask
+google-generative
+transformers
+pytesseract
+Pillow
+pdfplumber
+numpy
+sentence-transformers
+faiss-cpu
+yt-dlp
+openai-whisper
+moviepy
