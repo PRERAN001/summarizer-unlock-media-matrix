@@ -1,5 +1,5 @@
 flask
-google-generative
+google-generativeai
 transformers
 pytesseract
 Pillow
